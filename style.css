@@ -2083,3 +2083,18 @@ footer > span {
     }
 
 }
+
+.hero-tagline {
+
+    margin-top: 24px;
+
+    color: var(--apricot-dark);
+
+    font-size: 12px;
+
+    font-weight: 800;
+
+    letter-spacing: 3px;
+
+    text-transform: uppercase;
+}
