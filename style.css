@@ -2098,3 +2098,23 @@ footer > span {
 
     text-transform: uppercase;
 }
+
+
+.person-social {
+
+    display: inline-block;
+
+    margin-top: 20px;
+
+    color: var(--forest);
+
+    font-size: 13px;
+
+    font-weight: 800;
+
+    border-bottom: 1px solid var(--forest);
+
+    padding-bottom: 3px;
+
+    width: fit-content;
+}
